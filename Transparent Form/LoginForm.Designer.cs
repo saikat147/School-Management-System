@@ -8,6 +8,7 @@ namespace Transparent_Form
         /// </summary>
         private System.ComponentModel.IContainer components = null;
        
+        //asdf
 
         // login from
         /// <summary>
