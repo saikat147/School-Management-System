@@ -9,7 +9,7 @@ namespace Transparent_Form
         private System.ComponentModel.IContainer components = null;
        
 
-        //shdfgfhh
+        // login from
         /// <summary>
         /// Clean up any resources being used.
         /// </summary>
