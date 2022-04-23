@@ -176,7 +176,8 @@ namespace Transparent_Form
 
         #endregion ScoreSubmenu
 
-        //to show register form in mainform
+        //to show register form in mainfor
+        //.......
         private Form activeForm = null;
         private void openChildForm(Form childForm)
         {
@@ -215,6 +216,11 @@ namespace Transparent_Form
         }
 
         private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
         }
