@@ -63,6 +63,7 @@ namespace Transparent_Form
         private void button_add_Click(object sender, EventArgs e)
         {
             // add new student
+            //.....
             string fname = textBox_Fname.Text;
             string lname = textBox_Lname.Text;
             DateTime bdate = dateTimePicker1.Value;
