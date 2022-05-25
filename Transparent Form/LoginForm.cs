@@ -23,7 +23,7 @@ namespace Transparent_Form
         {
             Application.Exit();
         }
-        //
+        
         private void label6_MouseEnter(object sender, EventArgs e)
         {
             label6.ForeColor = Color.Red;
