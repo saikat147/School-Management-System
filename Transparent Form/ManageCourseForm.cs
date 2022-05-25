@@ -105,6 +105,7 @@ namespace Transparent_Form
         private void button_search_Click(object sender, EventArgs e)
         {
             //To Search course and show on datagridview
+            //
             DataGridView_course.DataSource = course.getCourse(new MySqlCommand("SELECT * FROM `course` WHERE CONCAT(`CourseName`)LIKE '%"+textBox_search.Text+"%'"));
             textBox_search.Clear();
         }
